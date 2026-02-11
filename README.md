@@ -19,4 +19,30 @@ This report is organized as follows:
 4.Conclusion – Summarizes the main findings and insights obtained from the exploratory data analysis and feature engineering process.
 
 5.Recommendations – Provides actionable recommendations for app developers and businesses based on the analysis results, such as category selection, pricing strategy, and app optimization.
-
+## Business Questions Based on Available Columns 
+1. Category & Popularity
+    * Which app category has the highest number of apps on the Google Play Store?
+    * Which categories receive the maximum total installs?
+    * Which genres are most popular within each category?
+2. User Engagement & Ratings
+    * What is the average rating per category?
+    * Do apps with higher ratings receive more installs?
+    * Does the number of reviews influence an app’s rating?
+    * Which categories have the most user engagement based on review count?
+3. App Size & Performance
+    * Is there a relationship between app size and user ratings?
+    * Do smaller-sized apps get more installs compared to larger apps?
+    * Which categories tend to have larger app sizes?
+4. Free vs Paid Apps
+      * Are free apps downloaded more than paid apps?
+    * What is the average rating of free apps vs paid apps?
+     * Which categories contain the highest number of paid apps?
+    * How does app price affect installs for paid apps?
+5. Content Rating & Audience
+     * Which content rating (Everyone, Teen, Mature, etc.) is most common?
+      * Do apps with ‘Everyone’ content rating receive more installs?
+     * How does content rating vary across categories?
+6. Market & Business Insights
+    * Which categories show high demand but low competition (good for new app development)?
+    *  What combination of price, size, and rating leads to higher installs?
+    * Which app features are most important for business success on the Play Store?
